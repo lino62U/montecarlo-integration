@@ -14,12 +14,12 @@ The following table summarizes the results of integrating various functions usin
 | **Integral**                                        | **Integral Value (Monte Carlo)** | **Calculator Result** |
 |-----------------------------------------------------|----------------------------------|-----------------------|
 | $\int_0^1 e^{x^2} \, dx$                         | 1.4344                           | 1.4625                |
-| $ \int_{-1}^1 4 \cdot e^x \, dx$                   | 9.1813                           | 9.4016                |
-| $ \int_0^1 \sqrt{1 - e^{x^2}} \, dx $               | 0.0000                           | 0.0000                |
-| $ \int_0^\infty \frac{x}{(1 + x^2)^2} \, dx $      | 0.4977                           | 0.5000                |
-| $ \int_0^1 e^{x + x^2} \, dx $                     | 2.6564                           | 2.7399                |
-| $ \int_0^\infty e^{-x} \, dx $                      | 0.9995                           | 1.0000                |
-| $ \int_0^1 \sqrt{(1 - x^2)^3} \, dx $              | 0.5891                           | 0.5935                |
+| $\int_{-1}^1 4 \cdot e^x \, dx$                   | 9.1813                           | 9.4016                |
+| $\int_0^1 \sqrt{1 - e^{x^2}} \, dx$               | 0.0000                           | 0.0000                |
+| $\int_0^\infty \frac{x}{(1 + x^2)^2} \, dx$      | 0.4977                           | 0.5000                |
+| $\int_0^1 e^{x + x^2} \, dx$                     | 2.6564                           | 2.7399                |
+| $\int_0^\infty e^{-x} \, dx$                      | 0.9995                           | 1.0000                |
+| $\int_0^1 \sqrt{(1 - x^2)^3} \, dx$              | 0.5891                           | 0.5935                |
 
 This table compares the Monte Carlo integration values with those obtained from a standard calculator for each integral over the specified limits. The results demonstrate the accuracy and efficiency of the Monte Carlo method in approximating definite integrals.
 ## Integration Process
