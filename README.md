@@ -1,6 +1,6 @@
 # Monte Carlo Integration Method
 
-This repository demonstrates the use of the Monte Carlo method for numerical integration. The Monte Carlo method is a statistical technique that uses random sampling to estimate mathematical functions, particularly useful for high-dimensional integrals or integrals where analytical solutions are difficult to obtain.
+This repository demonstrates the use of the Monte Carlo method for numerical integration. The Monte Carlo method is a statistical technique that uses random sampling to estimate mathematical functions, particularly useful for high-dimensional integrals or integrals where analytical solutions are difficult to obtain..
 
 ## Monte Carlo Integration Overview
 
